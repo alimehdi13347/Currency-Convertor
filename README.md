@@ -5,7 +5,9 @@ The Currency Converter is a simple web tool that provides real-time exchange rat
 - **Live exchange rates** using an external API  
 - **Supports multiple currencies** with default selections  
 - **Automatic country flag updates** for selected currencies  
-- **Error handling** for invalid inputs  
+- **Error handling** for invalid inputs
+
+![image alt](https://github.com/alimehdi13347/Currency-Convertor/blob/main/currency-convertor%20.png?raw=true)
 
 ## 🔧 Installation & Usage
 1. **Clone this repository:**  
